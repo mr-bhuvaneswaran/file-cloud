@@ -6,6 +6,10 @@ A modern Google Drive clone built with Next.js (App Router), React, Supabase, Au
 File Cloud is a full-featured, secure, and beautiful cloud storage app. Users can sign up, log in, and manage their files and folders with a Google Drive-like interface. All files are stored securely in Supabase Storage, and access is protected by Row Level Security (RLS).
 
 ---
+## 🚀 Live Demo
+Check out the live demo at [File Cloud](https://file-cloud-ten.vercel.app/)
+
+---
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
@@ -127,8 +131,6 @@ npm start
 
 ## 🙏 Credits
 - Built with [Next.js](https://nextjs.org/), [Supabase](https://supabase.com/), [Tailwind CSS](https://tailwindcss.com/), [Heroicons](https://heroicons.com/), and [Auth.js](https://authjs.dev/).
-
----
 
 ## 📄 License
 MIT
